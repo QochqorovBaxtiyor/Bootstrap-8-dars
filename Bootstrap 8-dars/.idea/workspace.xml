@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c965d4c0-3274-4fe8-bd92-6b3c1942fadb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2UIvwi7cHYSrr48XSyMLskQTJ7o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CSS/CSS 7-dars" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Nomonjon.7 praktika\Dasturlash\Bootstsap\Bootstrap 8-dars" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c965d4c0-3274-4fe8-bd92-6b3c1942fadb" name="Default Changelist" comment="" />
+      <created>1692640150182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692640150182</updated>
+      <workItem from="1692640151483" duration="1666000" />
+      <workItem from="1692641846933" duration="1795000" />
+      <workItem from="1692643667664" duration="1788000" />
+      <workItem from="1692645502066" duration="1818000" />
+      <workItem from="1692647375035" duration="1782000" />
+      <workItem from="1692693367029" duration="1628000" />
+      <workItem from="1692695043097" duration="1781000" />
+      <workItem from="1692696852514" duration="1780000" />
+      <workItem from="1692698660148" duration="1776000" />
+      <workItem from="1692700480053" duration="1476000" />
+      <workItem from="1692702483338" duration="410000" />
+      <workItem from="1692703345910" duration="1666000" />
+      <workItem from="1692705042565" duration="288000" />
+      <workItem from="1692705381329" duration="1105000" />
+      <workItem from="1692706982710" duration="665000" />
+      <workItem from="1692709488336" duration="1773000" />
+      <workItem from="1692711321860" duration="1782000" />
+      <workItem from="1692713138149" duration="495000" />
+      <workItem from="1692713737967" duration="39000" />
+      <workItem from="1692714844505" duration="354000" />
+      <workItem from="1692715540788" duration="560000" />
+      <workItem from="1692716195308" duration="60000" />
+      <workItem from="1692778017380" duration="1205000" />
+      <workItem from="1692779254001" duration="1775000" />
+      <workItem from="1692781077228" duration="632000" />
+      <workItem from="1692797179035" duration="2462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1692798878919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1692798878919" />
+  </component>
+</project>
